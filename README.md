@@ -12,13 +12,6 @@ Hey there, I'm [Pedro Oliveira](https://github.com/yourusername), a programming 
   <img src="https://media.giphy.com/media/vY7khS0ScmZYQ/giphy.gif" alt="Programming is life">
 </p>
 
-## Coffee Lover ☕
-
-I have an unbreakable bond with coffee. It's not just a drink it's a lifestyle!
-<p align="center">
-  <img src="https://media.giphy.com/media/d0aoAzGeR7DFdKWlVT/giphy.gif" alt="Coffee Lover">
-</p>
-
 ## My Projects
 
 Here are some of my coolest projects:
