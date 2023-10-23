@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey there, I'm [Pedro Oliveira](https://github.com/yourusername), a programming enthusiast, coffee lover, and a friendly keyboard commander.
+Hey there, I'm [Pedro Oliveira](https://github.com/pedrovoliveira), a programming enthusiast, coffee lover, and a friendly keyboard commander.
 
 <p align="center">
   <img src="https://media.giphy.com/media/vY7khS0ScmZYQ/giphy.gif" alt="Programming is life">
